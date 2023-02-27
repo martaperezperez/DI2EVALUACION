@@ -45,7 +45,7 @@ False False False
 True  False False
 False True  False
 True  True  True
-===== ===== ======
+===== ===== =======
 
 +-----------------------------+----------------------------+----------------------------+-----------------------------+
 | Filade cabeceira, columna1  | Cabeceira 2                | Cabeceira 3                | Cabeceira 4                 |
