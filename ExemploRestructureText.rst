@@ -1,23 +1,23 @@
 Un paráfo en un Restructure text é o bloque mais basico e non necesitamos marcalo de ninguna maneira.
 
-So tenemos que respetar a tabulación. Para remarcar utilizamos  *italica* cun só aterisco. Tenemos outras opcións como a **negriña** con dobre asterisco ou con dobre copmilla para codigo: `èste seria o tipo de texto``.
+So tenemos que respetar a tabulación. Para remarcar utilizamos  *italica* cun só aterisco. Tenemos outras opcións como a **negriña** con dobre asterisco ou con dobre copmilla para codigo: ``este seria o tipo de texto``.
 
 Para facer unha lista
 
-*O primeiro elemento
-*O segundo elemento
+* O primeiro elemento
+* O segundo elemento
 
 Este elemento usa mais dunha liña
 
-    #. Lista autonumerada
-    #. Segundo elemento
+#. Lista autonumerada
+#. Segundo elemento
 
 1. Primer Elemento
 2. Segundo Elemento
 
 Termin (na parte de arriba do texto)
 
-    Definicion do termo, que ten que ser tabulado.
+Definicion do termo, que ten que ser tabulado.
 
     Pode ter varios parrafos
 
